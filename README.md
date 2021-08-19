@@ -3,9 +3,9 @@
 ## HD 520 grub
 add  i915.enable_rc6=0 in grub command line
 
-'''
+´´´
 GRUB_CMDLINE_LINUX="i915.enable_rc6=0"
-'''
+´´´
 
 
 ## install packages in neon
